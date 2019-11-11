@@ -2,9 +2,9 @@ public class MySweetProgram {
 
 	public static void main(String[] args) {
 		int [][] data = {
-					{4, 6, 3, 10},
-					{4, 2, 40, 1, 5, 3, 2, 30},
-					{5, 34, 1, 43}
+					{0, 1, 1, 0},
+					{1, 1, 1, 1},
+					{1, 1, 2, 1}
 		};
 
 
